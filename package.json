@@ -1,6 +1,6 @@
 {
   "name": "izumi-bot",
-  "version": "4.4.0",
+  "version": "4.4.1",
   "description": "Izumi simple multi device WhatsApp Bot.",
   "main": "./index.js",
   "scripts": {
