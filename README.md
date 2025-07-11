@@ -34,8 +34,8 @@ Izumi - Simple whatsapp Multi Device whatsapp bot.
    ```
 2. installation
    ```
-   git clone https://github.com/Akshay-Eypz/izumi-bot
-   cd izumi-bot
+   https://github.com/botfamcreator/Izumi--bot.git
+   cd izumi--bot
 4. Configuration
    ```
    echo "SESSION_ID = izumi~enulefekap
